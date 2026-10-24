@@ -1,0 +1,14 @@
+{
+  "name": "구구 주임",
+  "format": "glTF 2.0 binary",
+  "bytes": 3018300,
+  "triangles": 30780,
+  "drawCalls": 45,
+  "animations": [
+    "Idle",
+    "Flight"
+  ],
+  "rig": "Named rigid joints; no skeletal skin",
+  "textures": 0,
+  "axes": "Y up, +Z forward"
+}
